@@ -9,10 +9,9 @@ Key Findings:
 - Important Features: Parental level of education, lunch type, and test preparation course were identified as significant predictors of student performance.
 - Ethnic Differences: Performance varied across different ethnic groups, with some groups consistently scoring higher.
 - Health Impact: Better health indicators were associated with higher test scores.
-- Parental Involvement: Higher levels of parental involvement were linked to better academic outcomes.
+- Parental participation: Better academic results have been associated with higher levels of parental participation.
 
-Research Question:
-How do ethnicity, parental involvement, and student health impact the academic performance of students in terms of their ability to process information and achieve higher test scores?
+Research Question: What effects do student health, parental participation, and ethnicity have on students' academic performance in terms of their capacity for information processing and attainment of better test scores?
 
 Expected Data Source:
 The "Student Performance Linear Regression" dataset, which can be found on Kaggle. [Link to Dataset](https://www.kaggle.com/code/bhavikjikadara/student-performance-linear-regression-100)
