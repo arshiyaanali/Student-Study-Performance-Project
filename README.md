@@ -17,7 +17,6 @@ Expected Data Source:
 The "Student Performance Linear Regression" dataset, which can be found on Kaggle. [Link to Dataset](https://www.kaggle.com/code/bhavikjikadara/student-performance-linear-regression-100)
 
 Techniques:
-
 1. Data Preprocessing:
    - Handling missing values
    - Encoding categorical variables
